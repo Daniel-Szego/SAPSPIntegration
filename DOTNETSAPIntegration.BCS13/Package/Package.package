@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1ab607b2-8937-4897-a23f-eb36b7283899" solutionId="1ab607b2-8937-4897-a23f-eb36b7283899" resetWebServer="false" sharePointProductVersion="15.0" name="DOTNETSAPIntegration.BCS13" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="DOTNETSAPIntegration.Data.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\DOTNETSAPIntegration\DOTNETSAPIntegration.Data.csproj" />
+    <customAssembly location="ERPConnect40.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\..\..\..\Program Files (x86)\ERPConnect\ERPConnect40.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="fe89cd3a-6899-45a3-8dd9-72717dd5bbc5" />
+  </features>
+</package>

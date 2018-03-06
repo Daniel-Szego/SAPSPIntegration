@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<minimalLanguageDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="EmployeeData">
+  <modelRootMoniker Name="/EmployeeData" />
+  <nestedChildShapes>
+    <entityShape Id="4eb98e79-5028-4e4a-8558-df616f98bc1d" absoluteBounds="0.5, 1.375, 1.5, 1.59568359375">
+      <entityMoniker name="DOTNETSAPIntegration.BCS13.EmployeeData.Entity1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a774d29-2caf-4af5-ac0d-95587fc53704" absoluteBounds="0.515, 1.7850000000000001, 1.4700000000000002, 0.44169108072916663" name="Identifiers" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="fba64758-15d5-49b3-9d5a-fd90bd979365" absoluteBounds="0.515, 2.2366910807291669, 1.4700000000000002, 0.63399251302083326" name="Methods" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </entityShape>
+  </nestedChildShapes>
+</minimalLanguageDiagram>
